@@ -1,11 +1,18 @@
+#Console Wars PvX study case
+
 Hello everyone, my name is Louis Ruiz and I'm a starting data analyst. 
-I finished my courses a while ago and I was cooking up a topic that I had in my head for a while.
+I finished my courses on coursera a while ago and I was cooking up a topic that I had in my head for a while.
+
+##Summary on the Analaysis
 So why not make a data about a topic I like which is the console wars. If you want the full summary, 
 you can access the Powerpoint "PS4 vs Xbox Sales.ppx" it will list my visualizations, summary and citations.
 
+##Processing and Analyzing
 I downloaded the datasets and started cleaning it with Excel by filtering and sorting to delete the irrelavent data such as Nintendo sections or PC as they are
 not the priority. Then I went analyzing my tables at BigQuery where I'm most suited at.
 Due to my limited source on finding Xbox data, I had to rely won what Kaggle had available. I had to use 4 different datasets to find the information.
+
+##Visualizing it
 I always had peers thinking this or that is better than the other console so I wanted to get the bottom of it.
 I already knew the answers on some of these, just not in a analytical scale. 
 I need on total sales, score and had to readjust on some of these. I didn't bother to save the queries until the second half of the process.
