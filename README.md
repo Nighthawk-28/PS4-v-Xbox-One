@@ -19,11 +19,11 @@ I need on total sales, score and had to readjust on some of these. I didn't both
 I did save a few queries that shows the effort on editing the tables so I can finalize the goal I need. Lastly I reached to Tableau public to get started and
 took me a few tries because I barely just started the software then it finally hits me. Here are the some of the results results I pulled up;
 #### Sales & Score Correlation
-![Correlation Chart](Story 5.png)
+![Correlation Chart](Story_5.png)
 *Key Insight: High sales don't always mean high user satisfaction. Note the variance in 'The Last of Us Part II'.*
 
 #### Library Comparison (PS4 vs Xbox One)
-![Treemap Chart](Story 4.png)
+![Treemap Chart](Story_4.png)
 *Key Insight: PlayStation offered a significantly larger volume of unique titles and publishers.*
 
 For the record, these visuals are actually interactive in my Tableau viz.
